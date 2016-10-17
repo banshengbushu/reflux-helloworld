@@ -4,7 +4,8 @@ module.exports = {
 
     entry: {
         page1:'./js/reflux.js',
-        page2:['./js/reflux-text.js','./js/reflux-api.js',]
+        page2:'./js/reflux-text.js',
+        page3:['./js/reflux-api.js']
     },
     output: {
         path: path.join(__dirname, '/dist'),
