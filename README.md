@@ -9,7 +9,7 @@ git clone https://github.com/RangelZZZ/reflux-demo
 * 运行`hello.html`
 
 ###执行第二个 Demo（Reflux+React 实现页面显示用户输入的文本内容）
-* 运行`index.html`
+* 运行`hello-text.html`
 
 ###执行第二个 Demo（Reflux+React+Express 实现页面渲染`hello world！`）
 * 执行`npm start`
